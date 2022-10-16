@@ -6,7 +6,7 @@ A respository for functional programming with Python course.
 What i learned from this course : 
   * What's the different between functional programming and object oriented programming
   * MAP & REDUCE concept
-  * Data visualization with pandas, matplot
+  * Data visualization with pandas, matplotlib
  
 <!-- CONTACT -->
 ## Contact
