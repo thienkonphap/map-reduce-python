@@ -11,6 +11,6 @@ What i learned from this course :
 <!-- CONTACT -->
 ## Contact
 
-Thien NGUYEN - ngocthiennguyen2102@gmail.com.com
+Thien NGUYEN - ngocthiennguyen2102@gmail.com
 
 Professor in charge this course : Sylvain Conchon - Sylvain.Conchon@lri.fr
